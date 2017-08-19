@@ -1,3 +1,5 @@
+#Demonstration of split function
+
 input_adj = input("Give me three adjectives seperated by commas:\n")
 input_adj.split(", ")
 adj_1,adj_2,adj_3 = input_adj.split(", ")
