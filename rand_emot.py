@@ -1,3 +1,5 @@
+#Random emoticon generator
+
 import random
 
 eyes_list = [';', ':', '#']
