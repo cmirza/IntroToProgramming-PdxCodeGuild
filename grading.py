@@ -1,3 +1,5 @@
+#Takes a percentage and figures out corresponding letter grade
+
 input_grade = input("What percentage did you get:")
 grade = int(input_grade)
 
