@@ -1,3 +1,5 @@
+#Password generator with probablility of letters or numbers
+
 import random
 import string
 
