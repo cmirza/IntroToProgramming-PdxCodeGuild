@@ -1,3 +1,5 @@
+#Rock paper scissor game
+
 import random
 
 valid_choice = ('rock','paper','scissor')
