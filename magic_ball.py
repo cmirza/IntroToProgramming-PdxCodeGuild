@@ -1,3 +1,5 @@
+#Magic 8 Ball game
+
 import random
 
 magic_response = ('It is certain.','It is decidedly so.','Reply hazy try again.', 'Ask again later.', 'Don\'t count on it.', 'My reply is no.')
