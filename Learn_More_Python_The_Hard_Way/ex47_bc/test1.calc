@@ -1,8 +1,0 @@
-
-define calc(x) {
-    return x + 20
-}
-
-print(calc(20))
-
-
